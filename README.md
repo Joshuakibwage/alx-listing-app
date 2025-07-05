@@ -19,7 +19,7 @@ The **ALX Listing App** is a web-based platform that displays property listings 
 
 ## 🎯 Project Objectives
 
-- ✅ Master Next.js `app/` routing and layouts
+- ✅ Master Next.js `pages/` routing and layouts
 - ✅ Build reusable, accessible UI components
 - ✅ Apply TypeScript interfaces to enforce type safety
 - ✅ Practice clean architecture and modular code organization
