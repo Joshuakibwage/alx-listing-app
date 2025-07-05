@@ -145,7 +145,7 @@ This is a solo ALX learning project, but if you're viewing the code and want to 
 👤 Author
 
 Joshua Kibwage
-🔗 LinkedIn Profile
+🔗 https://www.linkedin.com/in/joshua-kibwage-b19556321/
 💬 Passionate about clean UIs, structured code, and building impactful products.
 📌 Final Thoughts
 
